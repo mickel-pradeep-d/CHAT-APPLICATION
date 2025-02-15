@@ -52,7 +52,7 @@ Additionally, **new users can join an existing chatroom** simply by entering the
 - Displaying **user typing indicators** for real-time feedback.  
 - Storing messages in a **database** for chat history.  
 
-**Output :**
+## **Output :**
 
 ![Image](https://github.com/user-attachments/assets/a388a976-98b2-4d74-812f-acd680c8570a)
 
