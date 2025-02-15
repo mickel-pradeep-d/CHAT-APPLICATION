@@ -14,7 +14,7 @@
 
 ### **PROJECT DESCRIPTION**
 
-**TITLE : Recipe Finder Web App**
+**TITLE : Real-time Chat Application**
 
 This is a **real-time chat application** built using **Socket.io**, **Node.js**, **Express.js**, and a frontend powered by **HTML, CSS, and JavaScript**. The application allows users to join a public chatroom and exchange messages with real-time updates.  
 
