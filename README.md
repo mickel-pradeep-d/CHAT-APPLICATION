@@ -1,4 +1,4 @@
-# CHAT-APPLICATION
+# CHAT APPLICATION
 
 **COMPANY** : CODTECH IT SOLUTIONS
 
@@ -54,5 +54,15 @@ Additionally, **new users can join an existing chatroom** simply by entering the
 
 **Output :**
 
+![Image](https://github.com/user-attachments/assets/a388a976-98b2-4d74-812f-acd680c8570a)
+
+
+![Image](https://github.com/user-attachments/assets/987cadf4-e75f-4031-bf20-1edddbc3b751)
+
+
+![Image](https://github.com/user-attachments/assets/f8f5e7bd-c9c1-431a-8ecf-c1c7cc72f16e)
+
+
+![Image](https://github.com/user-attachments/assets/621caad6-24e5-444b-8d57-8e448105effd)
 
 🚀 **Enjoy seamless real-time chatting with this interactive chat application!**  
