@@ -1,4 +1,20 @@
-# **Real-Time Chat Application**  
+# CHAT-APPLICATION
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : MICKEL PRADEEP D
+
+**INTERN ID** : CT12NIW
+
+**DOMAIN** : FULL STACK WEB DEVELOPMENT
+
+**DURATION** : 8 WEEKS
+
+**MENTOR** : NEELA SANTOSH KUMAR
+
+### **PROJECT DESCRIPTION**
+
+**TITLE : Recipe Finder Web App**
 
 This is a **real-time chat application** built using **Socket.io**, **Node.js**, **Express.js**, and a frontend powered by **HTML, CSS, and JavaScript**. The application allows users to join a public chatroom and exchange messages with real-time updates.  
 
@@ -36,6 +52,7 @@ Additionally, **new users can join an existing chatroom** simply by entering the
 - Displaying **user typing indicators** for real-time feedback.  
 - Storing messages in a **database** for chat history.  
 
----
+**Output :**
+
 
 🚀 **Enjoy seamless real-time chatting with this interactive chat application!**  
